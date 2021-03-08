@@ -51,6 +51,9 @@ body{
     .result{
         font-size: 0.8rem;
     }
+    .footer{
+        font-size: 1rem;
+    }
 }
 
 .footer{
